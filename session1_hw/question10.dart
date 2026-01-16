@@ -1,0 +1,2 @@
+/*Explain what happens if you try to use a variable before it is declared in Dart.
+It will shows an error as  the variable will be undifined as the dart program runs in the order of the lines .*/

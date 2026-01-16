@@ -1,0 +1,2 @@
+/*Explain the purpose of the main function in a Dart application.
+The main function is the starting point of any dart program that is used just one time in any dart programIt acts as an indecator for the ide to start runnung the program.*/
